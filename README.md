@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @coderOne444
-- 👀 I’m interested in ...app dev
+- 👀 I’m interested in ...app development
 - 🌱 I’m currently learning ...kotlin,nodejs
 - 💞️ I’m looking to collaborate on ...project build
 - 📫 How to reach me ...insta-@pokecheems
-- 😄 Pronouns: ...:)
+- 😄 Pronouns: ...He/Him:)
 - ⚡ Fun fact: ...trying to escape the matrix
 
 <!---
