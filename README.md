@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderOne444
 - 👀 I’m interested in ...development & operations
-- 🌱 I’m currently learning ...kotlin,nodejs , python , java
+- 🌱 I’m currently learning ...kotlin,nodejs , python , java and devops
 - 💞️ I’m looking to collaborate on ...project build
 - 📫 How to reach me ...insta-@pokecheems
 - 😄 Pronouns: ...He/Him:)
