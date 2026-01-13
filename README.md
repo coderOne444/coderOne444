@@ -92,8 +92,8 @@ Teaching:
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=codefrom0444&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefrom0444&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=coderOne444&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderOne444&layout=compact&theme=tokyonight" />
 </p>
 
 ---
