@@ -83,14 +83,14 @@ Teaching:      [ Robotics & AI for Kids & Beginners ]
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=coderOne444&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderOne444&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderOne444&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderOne444&layout=compact&theme=tokyonight&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=coderOne444&theme=tokyonight&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=coderOne444&theme=tokyonight" width="55%"/>
 </div>
 
 <br/>
@@ -98,7 +98,7 @@ Teaching:      [ Robotics & AI for Kids & Beginners ]
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/coderOne444/coderOne444/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
